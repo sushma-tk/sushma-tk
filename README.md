@@ -19,6 +19,7 @@ Outside of technical work, I enjoy exploring new experiences and finding balance
 - Downtime: Enjoy watching movies and spending time with family.
 
 
+# Learning and Opportunities
 **I am actively seeking opportunities to apply and expand my new data skills.**
 - Eager to connect regarding full-time work opportunities in Data Analytics or Data Quality roles.
 - Highly interested in volunteer projects where I can gain practical experience and learn through application of my SQL, Python, and Power BI skills.
