@@ -21,7 +21,7 @@ Outside of technical work, I enjoy exploring new experiences and finding balance
 
 # Learning and Opportunities
 **I am actively seeking opportunities to apply and expand my new data skills.**
-- Eager to connect regarding full-time work opportunities in Data Analytics or Data Quality roles.
+- Eager to connect regarding full-time work opportunities in Data Analytics or Data Quality roles around San Jose, California, or Remote.
 - Highly interested in volunteer projects where I can gain practical experience and learn through application of my SQL, Python, and Power BI skills.
 
 **Ready to connect on opportunities that blend quality assurance discipline with data analysis insights.**
