@@ -11,9 +11,11 @@ I like the part of analysis where the number everyone trusts turns out to be wro
 ### 💼 Experience
 
 **SQL & Database Architecture Extern — Breaking Games** · Jul 2026 – Present
+
 Built a SQL analytics database from six disconnected exports (10,500+ rows of Shopify sales, checkout, web traffic, and Meta ad data), designing the fact and dimension tables that tied them together. Found paid social converting at 0.124% against 0.477% for organic search, with one campaign spending $12,917 and no recorded results. Corrected the reported 91% cart abandonment rate to ~51% through a reusable SQL view, and recommended a reprint list from the 10 products driving 74.5% of revenue.
 
 **Data Analytics Extern — Beats by Dre** · Oct 2025 – Jan 2026
+
 Cleaned and analyzed 1,000+ consumer survey responses in Excel and Python to identify Gen Z purchasing trends. Used Python and Gemini AI for sentiment mining on unstructured feedback, surfacing product defects that star ratings alone missed, then built dashboards and presented findings to Beats' senior leadership.
 
 ---
